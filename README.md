@@ -61,5 +61,4 @@ The task required high attention to detail, an understanding of **visual semanti
 **Satyam Raj**  
 Multimodal Evaluator | Prompt Engineer  
 - Outlier.ai – Project Mighty Moo  
-- Email: [your.email@example.com]  
-- GitHub: [https://github.com/yourusername]
+- Email: rsatyam950@gmail.com
